@@ -1,0 +1,9 @@
+AMAZON.HelpIntent	alexa can you help me
+AMAZON.StopIntent	bye alexa
+AMAZON.CancelIntent	cancel alexa
+HiIntent	hi alexa
+HiIntent	hey alexa
+HiIntent	hi
+HiIntent	hey
+NameIntent	my name is {name} 
+ProfessorIntent	Who are my professors

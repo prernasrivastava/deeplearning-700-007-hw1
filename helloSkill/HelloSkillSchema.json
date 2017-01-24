@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "AMAZON.StopIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "AMAZON.CancelIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "HiIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "NameIntent", 
+      "slots": [{"name":"name","type":"LIST_OF_NAMES"}]
+    }, 
+    {
+      "intent": "ProfessorIntent", 
+      "slots": []
+    }
+  ]
+}
